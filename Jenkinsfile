@@ -1,4 +1,4 @@
-node(maven) {
+node("maven") {
 
    stage('SCM') {
       // git clone
